@@ -1,0 +1,37 @@
+body{
+  background-color: #F6CEEC;
+}
+
+li{
+  list-style: none;
+}
+.header{
+  height: 150px;
+  weidth: 2000px;
+  padding-right: 300px;
+}
+
+.header-logo{
+  color: white;
+  background-color: #5882FA;
+  float: left;
+  font-size: 40px;
+  padding: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
+  border-radius: 20px;
+}
+
+.header-list li{
+  color: white;
+  font-size: 25px;
+  float: right;
+  padding: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #5882FA;
+}
+
+.header-list :hover{
+  color: white;
+}
